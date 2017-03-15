@@ -1,0 +1,3 @@
+deap==1.0.2
+numpy==1.11.0
+objectpath==0.5
