@@ -1,0 +1,17 @@
+{
+    "INPUT_FILE": "demo/result.csv",
+    "BUDGET": 99000000,
+    "FORMATIONS": [
+        ["P", "A", "A", "I", "I"],
+        ["P", "P", "A", "I", "I"],
+        ["P", "P", "P", "P", "P"],
+        ["P", "A", "A", "A", "I"],
+        ["P", "A", "I", "I", "I"],
+        ["A", "A", "A", "A", "I"]
+    ],
+    "NGEN": 14,
+    "MU": 201,
+    "LAMBDA": 1001,
+    "CXPB": 0.71,
+    "MUTPB": 0.29
+}
